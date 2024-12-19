@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "N24IbCZFGUdBt208",
+    "MONGO_PASSWORD": "N24IbCZFGUdBt208",
+    "MONGO_DB": "shop",
+    "STRIPE_SECRET_KEY": "sk_test_51NeHYtE1A7WnjjlmF2a8KOpnfhoMy7scETbg5Q8K7oGwUcbYZ2sKxe47kvaYpVUz98LnZSXs1uAZIhmgRoeVu2K5007EvVsgSC"
+  }
+}
